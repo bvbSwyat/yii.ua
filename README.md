@@ -1,4 +1,0 @@
-alita.ua
-========
-
-My repository
